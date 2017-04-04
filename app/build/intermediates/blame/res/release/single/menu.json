@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\menu\\queue.xml",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\menu\\queue.xml"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\menu\\album_sort_by.xml",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\menu\\album_sort_by.xml"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\menu\\song_sort_by.xml",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\menu\\song_sort_by.xml"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\menu\\audio_player.xml",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\menu\\audio_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\menu\\shuffle_item.xml",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\menu\\shuffle_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\menu\\new_playlist.xml",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\menu\\new_playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\menu\\clear_list.xml",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\menu\\clear_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_base.xml",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\menu\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\menu\\search.xml",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\menu\\artist_song_sort_by.xml",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\menu\\artist_song_sort_by.xml"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\menu\\artist_album_sort_by.xml",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\menu\\artist_album_sort_by.xml"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\menu\\artist_sort_by.xml",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\menu\\artist_sort_by.xml"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\menu\\shuffle_all.xml",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\menu\\shuffle_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\menu\\search_btn.xml",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\menu\\search_btn.xml"
+    }
+]

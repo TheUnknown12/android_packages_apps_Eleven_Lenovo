@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fy-rNL\\values-fy-rNL.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\values-fy-rNL\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1122,
+                        "endColumn": 43,
+                        "endOffset": 1163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 67,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\values-fy-rNL\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 1687,
+                        "endColumn": 65,
+                        "endOffset": 1750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 63,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\values-fy-rNL\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 1370,
+                        "endColumn": 61,
+                        "endOffset": 1429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 63,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\values-fy-rNL\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 1433,
+                        "endColumn": 61,
+                        "endOffset": 1492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endColumn": 67,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\values-fy-rNL\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 2,
+                        "startOffset": 1754,
+                        "endColumn": 65,
+                        "endOffset": 1817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 63,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\values-fy-rNL\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 1496,
+                        "endColumn": 61,
+                        "endOffset": 1555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 63,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\values-fy-rNL\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 1559,
+                        "endColumn": 61,
+                        "endOffset": 1618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endColumn": 65,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\values-fy-rNL\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 2,
+                        "startOffset": 1622,
+                        "endColumn": 63,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 559,
+                    "endColumn": 54,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\values-fy-rNL\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 912,
+                        "endColumn": 52,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 40,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\values-fy-rNL\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1082,
+                        "endColumn": 38,
+                        "endOffset": 1118
+                    }
+                }
+            }
+        ]
+    }
+]

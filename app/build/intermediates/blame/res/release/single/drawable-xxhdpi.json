@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_artist.png",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_artist.png"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_playlist_lg.png",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_playlist_lg.png"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\default_artwork.png",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\drawable-xxhdpi\\default_artwork.png"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_album.png",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_album.png"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_album_lg.png",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_album_lg.png"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_notification.png",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_artist_lg.png",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_artist_lg.png"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\default_artwork_blur.png",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\drawable-xxhdpi\\default_artwork_blur.png"
+    },
+    {
+        "merged": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_playlist.png",
+        "source": "C:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_playlist.png"
+    }
+]

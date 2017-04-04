@@ -1,0 +1,4 @@
+#Tue Apr 04 13:03:15 EEST 2017
+base.0=C\:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\timojaas\\AndroidStudioProjects\\android_packages_apps_Eleven1\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

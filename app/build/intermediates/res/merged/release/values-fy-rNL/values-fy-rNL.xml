@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Annulearje</string>
+    <string name="header_10_to_30_minutes">10 - 30 minuten</string>
+    <string name="header_1_to_2_minutes">1 - 2 minuten</string>
+    <string name="header_2_to_3_minutes">2 - 3 minuten</string>
+    <string name="header_30_to_60_minutes">30 - 60 minuten</string>
+    <string name="header_3_to_4_minutes">3 - 4 minuten</string>
+    <string name="header_4_to_5_minutes">4 - 5 minuten</string>
+    <string name="header_5_to_10_minutes">5 - 10 minuten</string>
+    <string name="menu_settings">Ynstellingen</string>
+    <string name="save">Bewarje</string>
+</resources>
